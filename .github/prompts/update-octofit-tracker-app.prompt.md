@@ -1,6 +1,7 @@
 ---
 agent: 'agent'
 model: GPT-4.1
+description: 'Update Django app for MongoDB, CORS, and API structure'
 ---
 
 # Django App Updates
